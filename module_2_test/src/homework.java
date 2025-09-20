@@ -1,5 +1,8 @@
-public void main() {
-}
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.*;
+
 
 //------------------------------------------
 enum LogLevel {
@@ -37,7 +40,7 @@ class LoggingService {
 
 
 // -----------------------------------------------
-public void processNumbers(int[] numbers) {
+public void processNumber(int[] numbers) {
     if (numbers == null || numbers.length == 0) {
         return;
     }
@@ -118,3 +121,6 @@ public class ExcelReportGenerator implements ReportGenerator {
 // и т.д.
 
 
+
+void main() {
+}
