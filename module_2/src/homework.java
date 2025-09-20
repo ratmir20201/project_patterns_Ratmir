@@ -4,6 +4,12 @@ import java.nio.file.Path;
 import java.util.*;
 
 
+public class homework {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+
 //------------------------------------------
 enum LogLevel {
     INFO,
@@ -38,48 +44,48 @@ class LoggingService {
     }
 }
 
+class Utils {
+    // -----------------------------------------------
+    void processNumber(int[] numbers) {
+        if (numbers == null || numbers.length == 0) {
+            return;
+        }
 
-// -----------------------------------------------
-public void processNumber(int[] numbers) {
-    if (numbers == null || numbers.length == 0) {
-        return;
-    }
-
-    for (int number : numbers) {
-        if (number > 0) {
-            System.out.println(number);
+        for (int number : numbers) {
+            if (number > 0) {
+                System.out.println(number);
+            }
         }
     }
-}
 
 
-// ---------------------------------------------------
-public void printPositiveNumbers(int[] numbers) {
-    if (numbers == null || numbers.length == 0) {
-        return;
-    }
+    // ---------------------------------------------------
+    void printPositiveNumbers(int[] numbers) {
+        if (numbers == null || numbers.length == 0) {
+            return;
+        }
 
-    Arrays.sort(numbers); // сортируем один раз
+        Arrays.sort(numbers); // сортируем один раз
 
-    for (int number : numbers) {
-        if (number > 0) {
-            System.out.println(number);
+        for (int number : numbers) {
+            if (number > 0) {
+                System.out.println(number);
+            }
         }
     }
-}
 
 
-// ----------------------------------------------------
-public int divide(int a, int b) {
-    if (b == 0) {
-        return 0;
+    // ----------------------------------------------------
+    int divide(int a, int b) {
+        if (b == 0) {
+            return 0;
+        }
+        return a / b;
     }
-    return a / b;
 }
-
 
 // ------------------------------------------------------
-public class User {
+class User {
     private String name;
     private String email;
 
@@ -99,7 +105,7 @@ public class User {
 
 
 //-----------------------------------------------------------------
-public class FileReader {
+class FileReader {
     public String readFile(String filePath) throws IOException {
         return Files.readString(Path.of(filePath));
     }
@@ -107,11 +113,11 @@ public class FileReader {
 
 
 // --------------------------------------------------------------
-public interface ReportGenerator {
+interface ReportGenerator {
     void generate(String data);
 }
 
-public class ExcelReportGenerator implements ReportGenerator {
+class ExcelReportGenerator implements ReportGenerator {
 
     @Override
     public void generate(String data) {
@@ -120,7 +126,3 @@ public class ExcelReportGenerator implements ReportGenerator {
 }
 // и т.д.
 
-
-
-void main() {
-}
