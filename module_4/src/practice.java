@@ -19,9 +19,9 @@ class DocumentService {
         if ("report".equalsIgnoreCase(documentType)) {
             documentCreator = new ReportCreator();
         } else if ("resume".equalsIgnoreCase(documentType)) {
-            documentCreator = new ReportCreator();
+            documentCreator = new ResumeCreator();
         } else if ("letter".equalsIgnoreCase(documentType)) {
-            documentCreator = new ReportCreator();
+            documentCreator = new LetterCreator();
         } else {
             throw new IllegalArgumentException("Unknown transport type: " + documentType);
         }
