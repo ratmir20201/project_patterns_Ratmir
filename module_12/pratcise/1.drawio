@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+  <diagram name="Страница-1" id="BeIVoae6TPnbmE__2Hqn">
+    <mxGraphModel dx="2282" dy="1552" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-3" edge="1" parent="1" source="XfH5Misa4fXz_IrNtsJS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XfH5Misa4fXz_IrNtsJS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Начало" vertex="1">
+          <mxGeometry height="60" width="120" x="55" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-6" edge="1" parent="1" source="XfH5Misa4fXz_IrNtsJS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XfH5Misa4fXz_IrNtsJS-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Читатель приходит&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;в библиотеку&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="235" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-8" edge="1" parent="1" source="XfH5Misa4fXz_IrNtsJS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XfH5Misa4fXz_IrNtsJS-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-10" connectable="0" parent="XfH5Misa4fXz_IrNtsJS-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Нет" vertex="1">
+          <mxGeometry relative="1" x="-0.4386" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-12" edge="1" parent="1" source="XfH5Misa4fXz_IrNtsJS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XfH5Misa4fXz_IrNtsJS-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-13" connectable="0" parent="XfH5Misa4fXz_IrNtsJS-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Да" vertex="1">
+          <mxGeometry relative="1" x="-0.1392" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Проверка наличия&amp;nbsp;читательского билета&amp;nbsp;" vertex="1">
+          <mxGeometry height="92" width="199" x="393" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-9" edge="1" parent="1" source="XfH5Misa4fXz_IrNtsJS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="XfH5Misa4fXz_IrNtsJS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Оформить билет" vertex="1">
+          <mxGeometry height="60" width="120" x="432.5" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-15" edge="1" parent="1" source="XfH5Misa4fXz_IrNtsJS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XfH5Misa4fXz_IrNtsJS-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Читатель выбирает&amp;nbsp;книгу в каталоге" vertex="1">
+          <mxGeometry height="60" width="120" x="671" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-16" edge="1" parent="1" source="XfH5Misa4fXz_IrNtsJS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="XfH5Misa4fXz_IrNtsJS-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="266" />
+              <mxPoint x="731" y="266" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-17" connectable="0" parent="XfH5Misa4fXz_IrNtsJS-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Нет" vertex="1">
+          <mxGeometry relative="1" x="0.0289" y="-2" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-19" edge="1" parent="1" source="XfH5Misa4fXz_IrNtsJS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XfH5Misa4fXz_IrNtsJS-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-20" connectable="0" parent="XfH5Misa4fXz_IrNtsJS-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Да" vertex="1">
+          <mxGeometry relative="1" x="0.0667" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Проверка доступности книги" vertex="1">
+          <mxGeometry height="92" width="199" x="870" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-22" edge="1" parent="1" source="XfH5Misa4fXz_IrNtsJS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XfH5Misa4fXz_IrNtsJS-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-18" parent="1" style="whiteSpace=wrap;html=1;" value="Выдача доступной&amp;nbsp;книги регистрируется" vertex="1">
+          <mxGeometry height="60" width="120" x="1159" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-24" edge="1" parent="1" source="XfH5Misa4fXz_IrNtsJS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XfH5Misa4fXz_IrNtsJS-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-21" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Читатель получает&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;книгу&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1359" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XfH5Misa4fXz_IrNtsJS-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Конец" vertex="1">
+          <mxGeometry height="60" width="120" x="1550" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+  <diagram name="Страница-1" id="fV_0XwrSs75d7yvWONC8">
+    <mxGraphModel dx="1438" dy="1349" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Клиент&amp;nbsp;" vertex="1">
+          <mxGeometry height="1155" width="100" x="194" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Система&amp;nbsp;" vertex="1">
+          <mxGeometry height="1148" width="100" x="294" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Подрядчики&amp;nbsp;" vertex="1">
+          <mxGeometry height="1133" width="100" x="594" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Менеджер" vertex="1">
+          <mxGeometry height="1149" width="100" x="694" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Платёжный шлюз" vertex="1">
+          <mxGeometry height="1148" width="100" x="394" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Администратор&amp;nbsp;" vertex="1">
+          <mxGeometry height="1156" width="100" x="494" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Запрос доступности площадки" vertex="1">
+          <mxGeometry height="35" width="199" x="245" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Проверка доступных площадок" vertex="1">
+          <mxGeometry height="35" width="199" x="344.5" y="313" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Результат проверки&amp;nbsp;" vertex="1">
+          <mxGeometry height="35" width="199" x="344.5" y="348" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Информация о доступности / цене" vertex="1">
+          <mxGeometry height="35" width="200.5" x="244.5" y="383" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Подтверждение бронирования" vertex="1">
+          <mxGeometry height="35" width="200" x="245" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Запрос на предоплату" vertex="1">
+          <mxGeometry height="35" width="199.5" x="344.5" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Провести оплату" vertex="1">
+          <mxGeometry height="35" width="99.75" x="444" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Статус оплаты" vertex="1">
+          <mxGeometry height="35" width="99.75" x="444" y="576" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Результат оплаты" vertex="1">
+          <mxGeometry height="35" width="199.5" x="344.25" y="611" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Если платёж успешен:&lt;div&gt;подтверждение бронирования, уведомление администратору&amp;nbsp;&lt;br&gt;Иначе:&lt;br&gt;&amp;nbsp;отказ / предложение повторить оплату&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94" width="198.75" x="344.63" y="646" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ПАРАЛЛЕЛЬНЫЙ БЛОК &quot;Организация мероприятия&quot;" vertex="1">
+          <mxGeometry height="38" width="500.5" x="244.5" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Передать список задач администратору" vertex="1">
+          <mxGeometry height="35" width="199.5" x="344.25" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Создать задачи" vertex="1">
+          <mxGeometry height="35" width="199.5" x="444.25" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Уведомления о задачах" vertex="1">
+          <mxGeometry height="35" width="199.5" x="545.5" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Подтверждение выполнения&amp;nbsp;" vertex="1">
+          <mxGeometry height="35" width="199.5" x="545.5" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Завершение мероприятия" vertex="1">
+          <mxGeometry height="38" width="500.5" x="243.63" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Уведомление с просьбой оставить отзыв" vertex="1">
+          <mxGeometry height="35" width="299" x="245" y="1016" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Отзыв&amp;nbsp;" vertex="1">
+          <mxGeometry height="35" width="100.37" x="243.63" y="1051" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сбор отзывов" vertex="1">
+          <mxGeometry height="35" width="199.5" x="344.5" y="1086" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Отчёт менеджеру" vertex="1">
+          <mxGeometry height="35" width="299.75" x="344.25" y="1121" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_KhMrWQidVjI6L_cmD2-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Получение отчёта&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="100.37" x="643.75" y="1156" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
