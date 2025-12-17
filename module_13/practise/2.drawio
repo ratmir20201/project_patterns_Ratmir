@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.2">
+  <diagram name="Страница-1" id="1HVJ8Te3uEsNAuWaz7MT">
+    <mxGraphModel dx="1188" dy="619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-10" edge="1" parent="1" source="Hd9xkrn26wVvZlO7q74G-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Hd9xkrn26wVvZlO7q74G-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Гость" vertex="1">
+          <mxGeometry height="60" width="30" x="126" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-13" edge="1" parent="1" source="Hd9xkrn26wVvZlO7q74G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Hd9xkrn26wVvZlO7q74G-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-15" edge="1" parent="1" source="Hd9xkrn26wVvZlO7q74G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Hd9xkrn26wVvZlO7q74G-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Зарегистрированный пользователь" vertex="1">
+          <mxGeometry height="60" width="30" x="124" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-17" edge="1" parent="1" source="Hd9xkrn26wVvZlO7q74G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Hd9xkrn26wVvZlO7q74G-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-22" edge="1" parent="1" source="Hd9xkrn26wVvZlO7q74G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Hd9xkrn26wVvZlO7q74G-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
+          <mxGeometry height="60" width="30" x="893" y="413" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-23" edge="1" parent="1" source="Hd9xkrn26wVvZlO7q74G-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Hd9xkrn26wVvZlO7q74G-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Просмотр мероприятий&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="137" x="313" y="148" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-20" edge="1" parent="1" source="Hd9xkrn26wVvZlO7q74G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hd9xkrn26wVvZlO7q74G-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Бронирование мероприятия&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="137" x="326" y="342" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-19" edge="1" parent="1" source="Hd9xkrn26wVvZlO7q74G-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Hd9xkrn26wVvZlO7q74G-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Отмена бронирования&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="137" x="326" y="469" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Управление мероприятиями&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="137" x="594" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="Hd9xkrn26wVvZlO7q74G-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Просмотр всех бронирований&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="137" x="839.5" y="238" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
